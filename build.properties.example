@@ -1,0 +1,4 @@
+titanium.platform=<Titanium-sdk-path>/mobilesdk/osx/2.1.0.GA/android
+android.platform=<android-sdk-path>/platforms/android-8
+google.apis=<android-sdk-path>/add-ons/addon_google_apis_google_inc_8
+android.ndk=<android-ndk-path>
